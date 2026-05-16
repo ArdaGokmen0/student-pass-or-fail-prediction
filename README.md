@@ -1,4 +1,4 @@
-# Student Pass/Fail Prediction
+# Student Pass or Fail Prediction
 
 This project uses student performance data to predict whether a student will pass or fail a mathematics course.
 
@@ -105,10 +105,17 @@ Therefore, the machine learning model was evaluated not only by accuracy, but al
 - Failing-student recall
 - F1-score
 
-## How to Run
+## Project Structure
 
 1. Clone this repository:
 
 ```bash
 git clone https://github.com/ArdaGokmen0/student-pass-fail-prediction.git
-test
+```text
+student-pass-or-fail-prediction/
+│
+├── data/
+├── Portuguese.csv
+├── README.md
+├── student_pass_prediction.ipynb
+└── .gitignore
