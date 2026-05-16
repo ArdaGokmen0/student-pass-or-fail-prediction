@@ -111,3 +111,4 @@ Therefore, the machine learning model was evaluated not only by accuracy, but al
 
 ```bash
 git clone https://github.com/ArdaGokmen0/student-pass-fail-prediction.git
+test
